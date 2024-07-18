@@ -115,5 +115,5 @@ bash Copy code
 AUTHOR The project contributed to and maintained by:
  TERRY SOLIDAD
  ## Deployed link 
- [link]()
+ [link](https://phase1-project-omega.vercel.app/)
 
