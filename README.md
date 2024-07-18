@@ -105,7 +105,7 @@ To use this repo, follow the following steps:
 
 Alternative one
 1 open your terminal on your computer
-2 clone the repo by running the following command: git clone **`` ``**
+2 clone the repo by running the following command: git clone **`` git@github.com:Terry1703/phase1-project.git``**
 [Instructions to configure any settings or environment variables if necessary]
 
 Execute the application:
@@ -115,5 +115,5 @@ bash Copy code
 AUTHOR The project contributed to and maintained by:
  TERRY SOLIDAD
  ## Deployed link 
- [link](https://code3-js.vercel.app/)
+ [link]()
 
