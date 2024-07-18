@@ -116,4 +116,6 @@ AUTHOR The project contributed to and maintained by:
  TERRY SOLIDAD
  ## Deployed link 
  [link](https://phase1-project-omega.vercel.app/)
+ ## live link
+ [link](https://terry1703.github.io/phase1-project/)
 
